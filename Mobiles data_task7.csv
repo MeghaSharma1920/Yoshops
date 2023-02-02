@@ -1,0 +1,750 @@
+,Mobile_Brand,Mobile model,mobile with 5g services,ROM,rating,No of ratings ,No of reviews,Battery,Display,Processor,warranty,RAM,Camera,Expandable,discounted_price,Original_price,discount_percent
+0,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,4 GB  ,,  Upto 1 TB,"8,999","14,999",40
+1,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,17.2 cm (6.7 inch) HD+ ,,,,,,"67,999","79,900",14
+2,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 5MP Front ,,"37,999","43,900",13
+3,Cellecor,Cellecor A30i ,,,3.4,19 ,2,6000 mAh Lithium Polymer Battery,,,,,,,"1,449","79,900",14
+4,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,,Qualcomm Snapdragon 68 ,,,,,"67,999","14,999",40
+5,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"8,999","43,900",13
+6,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573",,,,,,,,"37,999","19,999",40
+7,Cellecor,Cellecor C60+ ,,,3.6,96 ,6,,15.49 cm (6.1 inch) Super Retina XDR ,,,,,,"1,459","17,999",38
+8,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280", ,,,,, 12MP Front ,,"11,999","17,999",38
+9,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,,"A15 Bionic Chip, 6 Core  ",,,,,"10,999","11,999",37
+10,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"10,999","14,999",20
+11,Cellecor,Cellecor R50 ,,,4.1,52 ,7,,,,,,,,"1,459","23,999",37
+12,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,15.49 cm (6.1 inch) Liquid Retina HD ,,,,,,"7,499","10,999",27
+13,SAMSUNG,SAMSUNG Galaxy F13,, 64 GB,4.4,"1,11,744 ","6,424", ,,,,, 12MP Front ,,"11,999","11,999",37
+14,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.3,"1,40,978 ","11,531",,,A13 Bionic Chip ,,,,,"14,999","10,999",40
+15,Cellecor,Cellecor A5 ,,,4.4,41 ,3,,,,Brand Warranty of 1 Year,,,,"1,348","10,999",27
+16,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.1,"59,846 ","5,853", ,,,,32 MB  ,,  Upto 32 GB,"7,999","9,999",28
+17,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,6.1 cm (2.4 inch) ,,,,,,"7,499","16,999",11
+18,POCO,POCO C31 ,, 32 GB,4.3,"1,25,511 ","7,439",,,,,,0.8MP Rear ,,"6,499","23,999",37
+19,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.1,"59,846 ","5,853",2000 mAh Battery,,,,,,,"7,999","14,999",40
+20,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,4 GB  ,,  Upto 1 TB,"8,999","14,999",40
+21,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,17.2 cm (6.7 inch) HD+ ,,,,,,"67,999","79,900",14
+22,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 5MP Front ,,"37,999","43,900",13
+23,Cellecor,Cellecor C60+ ,,,3.6,96 ,6,6000 mAh Lithium Polymer Battery,,,,,,,"1,459","79,900",14
+24,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,,Qualcomm Snapdragon 68 ,,,,,"67,999","43,900",13
+25,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"37,999","14,999",40
+26,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,,,,,"8,999","19,999",40
+27,Cellecor,Cellecor R3+ ,,,3.5,13 ,2,,15.49 cm (6.1 inch) Super Retina XDR ,,,,,,"1,049","17,999",38
+28,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280", ,,,,, 12MP Front ,,"11,999","11,999",37
+29,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,,"A15 Bionic Chip, 6 Core  ",,,,,"10,999","14,999",20
+30,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"7,499","17,999",38
+31,Cellecor,Cellecor X2 ,,,4.4,"1,11,744 ","6,424",,,,,,,,"1,149","23,999",37
+32,SAMSUNG,SAMSUNG Galaxy F13,, 64 GB,4.3,"1,34,634 ","12,280",,15.49 cm (6.1 inch) Liquid Retina HD ,,,,,,"11,999","10,999",27
+33,POCO,POCO M4 Pro,, 64 GB,4.3,"1,40,978 ","11,531", ,,,,, 12MP Front ,,"10,999","11,999",37
+34,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.1,"59,846 ","5,853",,,A13 Bionic Chip ,,,,,"14,999","10,999",40
+35,Cellecor,Cellecor X-1 ,,,4.3,"1,87,995 ","11,329",,,,Brand Warranty of 1 Year,,,,"1,149","10,999",27
+36,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.3,"1,25,511 ","7,439", ,,,,32 MB  ,,  Upto 32 GB,"7,999","9,999",28
+37,POCO,POCO C31 ,, 64 GB,2.3,6 ,0,,4.57 cm (1.8 inch) ,,,,,,"7,499","14,999",40
+38,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,4 GB  ,,  Upto 1 TB,"8,999","14,999",40
+39,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,17.2 cm (6.7 inch) HD+ ,,,,,,"67,999","79,900",14
+40,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 5MP Front ,,"37,999","43,900",13
+41,Cellecor,Cellecor A30i ,,,3.4,19 ,2,6000 mAh Lithium Polymer Battery,,,,,,,"1,449","79,900",14
+42,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,,Qualcomm Snapdragon 68 ,,,,,"67,999","43,900",13
+43,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"37,999","14,999",40
+44,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,,,,,"8,999","1,098",4%
+45,Cellecor,Cellecor R3+ ,,,3.5,13 ,2,,15.49 cm (6.1 inch) Super Retina XDR ,,,,,,"1,049","14,999",40
+46,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,, 12MP Front ,,"8,999","19,999",40
+47,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280",,,"A15 Bionic Chip, 6 Core  ",,,,,"11,999","11,999",37
+48,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"7,499","17,999",38
+49,Cellecor,Cellecor C60+ ,,,3.6,96 ,6,,,,,,,,"1,459","17,999",38
+50,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,15.49 cm (6.1 inch) Liquid Retina HD ,,,,,,"10,999","14,999",20
+51,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280", ,,,,, 12MP Front ,,"10,999","23,999",37
+52,SAMSUNG,SAMSUNG Galaxy F13,, 64 GB,4.4,"1,11,744 ","6,424",,,A13 Bionic Chip ,,,,,"11,999","10,999",27
+53,Cellecor,Cellecor E1 ,,,3.6,38 ,2,,,,Brand Warranty of 1 Year,,,,"1,229","11,999",37
+54,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.3,"1,40,978 ","11,531", ,,,,32 MB  ,,  Upto 32 GB,"14,999","10,999",40
+55,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.1,"59,846 ","5,853",,6.1 cm (2.4 inch) ,,,,,,"7,999","10,999",27
+56,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,,,,0.8MP Rear ,,"7,499","21,999",31
+57,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,4 GB  ,,  Upto 1 TB,"8,999","14,999",40
+58,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,17.2 cm (6.7 inch) HD+ ,,,,,,"67,999","79,900",14
+59,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 5MP Front ,,"37,999","43,900",13
+60,Cellecor,Cellecor A30i ,,,3.4,19 ,2,6000 mAh Lithium Polymer Battery,,,,,,,"1,449","79,900",14
+61,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,,Qualcomm Snapdragon 68 ,,,,,"67,999","43,900",13
+62,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"37,999","14,999",40
+63,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,,,,,"8,999","19,999",40
+64,Cellecor,Cellecor C60+ ,,,3.6,96 ,6,,15.49 cm (6.1 inch) Super Retina XDR ,,,,,,"1,459","11,999",37
+65,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280", ,,,,, 12MP Front ,,"11,999","17,999",38
+66,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,"A15 Bionic Chip, 6 Core  ",,,,,"7,499","17,999",38
+67,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"10,999","14,999",20
+68,Cellecor,Cellecor A5 ,,,4.4,41 ,3,,,,,,,,"1,348","23,999",37
+69,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,15.49 cm (6.1 inch) Liquid Retina HD ,,,,,,"10,999","10,999",27
+70,SAMSUNG,SAMSUNG Galaxy F13,, 64 GB,4.4,"1,11,744 ","6,424", ,,,,, 12MP Front ,,"11,999","11,999",37
+71,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.3,"1,40,978 ","11,531",,,A13 Bionic Chip ,,,,,"14,999","10,999",40
+72,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.1,"59,846 ","5,853",,,,Brand Warranty of 1 Year,,,,"7,999","10,999",27
+73,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329", ,,,,32 MB  ,,  Upto 32 GB,"7,499","9,999",28
+74,POCO,POCO C31 ,, 32 GB,4.3,"1,25,511 ","7,439",,6.1 cm (2.4 inch) ,,,,,,"6,499","23,999",37
+75,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.1,"59,846 ","5,853",,,,,,0.8MP Rear ,,"7,999","19,999",15
+76,REDMI,REDMI 9i Sport,, 64 GB,4.3,"2,17,141 ","12,271",2000 mAh Battery,,,,,,,"7,199","21,999",31
+77,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.3,"1,40,978 ","11,531",,,,1 Year Manufacturer Warranty,,,,"14,999","16,999",11
+78,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,4 GB  ,,  Upto 1 TB,"8,999","14,999",40
+79,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,17.2 cm (6.7 inch) HD+ ,,,,,,"67,999","79,900",14
+80,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 5MP Front ,,"37,999","43,900",13
+81,Cellecor,Cellecor A30i ,,,3.4,19 ,2,6000 mAh Lithium Polymer Battery,,,,,,,"1,449","79,900",14
+82,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,,Qualcomm Snapdragon 68 ,,,,,"67,999","43,900",13
+83,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"37,999","14,999",40
+84,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,,,,,"8,999","1,098",4%
+85,Cellecor,Cellecor R3+ ,,,3.5,13 ,2,,15.49 cm (6.1 inch) Super Retina XDR ,,,,,,"1,049","14,999",40
+86,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,, 12MP Front ,,"8,999","19,999",40
+87,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280",,,"A15 Bionic Chip, 6 Core  ",,,,,"11,999","17,999",38
+88,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"10,999","11,999",37
+89,Cellecor,Cellecor C60+ ,,,3.6,96 ,6,,,,,,,,"1,459","17,999",38
+90,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,15.49 cm (6.1 inch) Liquid Retina HD ,,,,,,"7,499","14,999",20
+91,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280", ,,,,, 12MP Front ,,"10,999","23,999",37
+92,SAMSUNG,SAMSUNG Galaxy F13,, 64 GB,4.4,"1,11,744 ","6,424",,,A13 Bionic Chip ,,,,,"11,999","10,999",27
+93,Cellecor,Cellecor E1 ,,,3.6,38 ,2,,,,Brand Warranty of 1 Year,,,,"1,229","11,999",37
+94,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.3,"1,40,978 ","11,531", ,,,,32 MB  ,,  Upto 32 GB,"14,999","10,999",40
+95,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.1,"59,846 ","5,853",,6.1 cm (2.4 inch) ,,,,,,"7,999","10,999",27
+96,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,,,,0.8MP Rear ,,"7,499","21,999",31
+97,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,4 GB  ,,  Upto 1 TB,"8,999","14,999",40
+98,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,17.2 cm (6.7 inch) HD+ ,,,,,,"67,999","79,900",14
+99,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 5MP Front ,,"37,999","43,900",13
+100,Cellecor,Cellecor A30i ,,,3.4,19 ,2,6000 mAh Lithium Polymer Battery,,,,,,,"1,449","79,900",14
+101,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,,Qualcomm Snapdragon 68 ,,,,,"67,999","43,900",13
+102,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"37,999","14,999",40
+103,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,,,,,"8,999","14,999",40
+104,Cellecor,Cellecor C60+ ,,,3.6,96 ,6,,15.49 cm (6.1 inch) Super Retina XDR ,,,,,,"1,459","19,999",40
+105,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,, 12MP Front ,,"8,999","11,999",37
+106,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280",,,"A15 Bionic Chip, 6 Core  ",,,,,"11,999","17,999",38
+107,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"7,499","17,999",38
+108,Cellecor,Cellecor E1 ,,,3.6,38 ,2,,,,,,,,"1,229","14,999",20
+109,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,15.49 cm (6.1 inch) Liquid Retina HD ,,,,,,"10,999","23,999",37
+110,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280", ,,,,, 12MP Front ,,"10,999","11,999",37
+111,SAMSUNG,SAMSUNG Galaxy F13,, 64 GB,4.4,"1,11,744 ","6,424",,,A13 Bionic Chip ,,,,,"11,999","10,999",27
+112,Cellecor,Cellecor X2 ,,,4.3,"1,40,978 ","11,531",,,,Brand Warranty of 1 Year,,,,"1,149","10,999",40
+113,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.3,"1,87,995 ","11,329", ,,,,32 MB  ,,  Upto 32 GB,"14,999","10,999",27
+114,POCO,POCO C31 ,, 64 GB,4.1,"59,846 ","5,853",,6.1 cm (2.4 inch) ,,,,,,"7,499","21,999",31
+115,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,4 GB  ,,  Upto 1 TB,"8,999","14,999",40
+116,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573",,17.2 cm (6.7 inch) HD+ ,,,,,,"37,999","43,900",13
+117,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163, ,,,,, 5MP Front ,,"67,999","79,900",14
+118,Cellecor,Cellecor A30i ,,,3.4,19 ,2,6000 mAh Lithium Polymer Battery,,,,,,,"1,449","79,900",14
+119,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,,Qualcomm Snapdragon 68 ,,,,,"67,999","43,900",13
+120,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"37,999","14,999",40
+121,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,,,,,"8,999","19,999",40
+122,Cellecor,Cellecor C60+ ,,,3.6,96 ,6,,15.49 cm (6.1 inch) Liquid Retina HD ,,,,,,"1,459","11,999",37
+123,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280", ,,,,, 12MP Front ,,"11,999","17,999",38
+124,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,A13 Bionic Chip ,,,,,"7,499","17,999",38
+125,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,,,Brand Warranty of 1 Year,,,,"10,999","14,999",20
+126,Cellecor,Cellecor R50 ,,,4.1,52 ,7,,,,,,,,"1,459","23,999",37
+127,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,15.49 cm (6.1 inch) Super Retina XDR ,,,,,,"10,999","10,999",27
+128,SAMSUNG,SAMSUNG Galaxy F13,, 64 GB,4.4,"1,11,744 ","6,424", ,,,,, 12MP Front ,,"11,999","11,999",37
+129,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.3,"1,40,978 ","11,531",,,"A15 Bionic Chip, 6 Core  ",,,,,"14,999","9,999",28
+130,Cellecor,Cellecor A5 ,,,4.4,41 ,3,,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"1,348","10,999",40
+131,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.1,"59,846 ","5,853", ,,,,32 MB  ,,  Upto 32 GB,"7,999","10,999",27
+132,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,6.1 cm (2.4 inch) ,,,,,,"7,499","23,999",37
+133,REDMI,REDMI 9i Sport,, 64 GB,4.3,"2,17,141 ","12,271",,,,,,0.8MP Rear ,,"7,199","21,999",31
+134,POCO,POCO C31 ,, 32 GB,4.3,"1,25,511 ","7,439",2000 mAh Battery,,,,,,,"6,499","16,999",11
+135,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,4 GB  ,,  Upto 1 TB,"8,999","14,999",40
+136,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,17.2 cm (6.7 inch) HD+ ,,,,,,"67,999","79,900",14
+137,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 5MP Front ,,"37,999","43,900",13
+138,Cellecor,Cellecor R3+ ,,,3.5,13 ,2,6000 mAh Lithium Polymer Battery,,,,,,,"1,049","79,900",14
+139,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,,Qualcomm Snapdragon 68 ,,,,,"67,999","43,900",13
+140,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"37,999","14,999",40
+141,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,,,,,"8,999","19,999",40
+142,Cellecor,Cellecor R50 ,,,4.1,52 ,7,,15.49 cm (6.1 inch) Super Retina XDR ,,,,,,"1,459","17,999",38
+143,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280", ,,,,, 12MP Front ,,"11,999","11,999",37
+144,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,,"A15 Bionic Chip, 6 Core  ",,,,,"10,999","17,999",38
+145,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"7,499","14,999",20
+146,Cellecor,Cellecor A5 ,,,4.4,41 ,3,,,,,,,,"1,348","23,999",37
+147,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,15.49 cm (6.1 inch) Liquid Retina HD ,,,,,,"10,999","10,999",27
+148,SAMSUNG,SAMSUNG Galaxy F13,, 64 GB,4.4,"1,11,744 ","6,424", ,,,,, 12MP Front ,,"11,999","11,999",37
+149,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.3,"1,40,978 ","11,531",,,A13 Bionic Chip ,,,,,"14,999","10,999",40
+150,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.1,"59,846 ","5,853",,,,Brand Warranty of 1 Year,,,,"7,999","10,999",27
+151,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329", ,,,,32 MB  ,,,"7,499","9,999",28
+152,POCO,POCO C31 ,, 32 GB,4.3,"1,25,511 ","7,439",,4.5 cm (1.77 inch) ,,,,,,"6,499","14,999",40
+153,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.1,"59,846 ","5,853",,,,,,0.8MP Rear ,,"7,999","23,999",37
+154,REDMI,REDMI 9i Sport,, 64 GB,4.3,"2,17,141 ","12,271",1000 mAh Battery,,,,,,,"7,199","21,999",31
+155,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,1 Year Manufacturer Warranty,,,,"8,999","16,999",11
+156,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,4 GB  ,,  Upto 1 TB,"8,999","14,999",40
+157,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,17.2 cm (6.7 inch) HD+ ,,,,,,"67,999","79,900",14
+158,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 5MP Front ,,"37,999","43,900",13
+159,Cellecor,Cellecor C60+ ,,,3.6,96 ,6,6000 mAh Lithium Polymer Battery,,,,,,,"1,459","79,900",14
+160,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,,Qualcomm Snapdragon 68 ,,,,,"67,999","43,900",13
+161,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"37,999","14,999",40
+162,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,,,,,"8,999","19,999",40
+163,Cellecor,Cellecor R3+ ,,,3.5,13 ,2,,15.49 cm (6.1 inch) Super Retina XDR ,,,,,,"1,049","11,999",37
+164,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280", ,,,,, 12MP Front ,,"11,999","17,999",38
+165,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,"A15 Bionic Chip, 6 Core  ",,,,,"7,499","17,999",38
+166,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"10,999","14,999",20
+167,Cellecor,Cellecor X2 ,,,4.3,"1,34,634 ","12,280",,,,,,,,"1,149","23,999",37
+168,POCO,POCO M4 Pro,, 64 GB,4.4,"1,11,744 ","6,424",,15.49 cm (6.1 inch) Liquid Retina HD ,,,,,,"10,999","11,999",37
+169,SAMSUNG,SAMSUNG Galaxy F13,, 64 GB,4.3,"1,40,978 ","11,531", ,,,,, 12MP Front ,,"11,999","10,999",27
+170,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.3,"1,87,995 ","11,329",,,A13 Bionic Chip ,,,,,"14,999","10,999",40
+171,Cellecor,Cellecor X-1 ,,,4.1,"59,846 ","5,853",,,,Brand Warranty of 1 Year,,,,"1,149","10,999",27
+172,POCO,POCO C31 ,, 64 GB,4.3,"1,25,511 ","7,439", ,,,,32 MB  ,,  Upto 32 GB,"7,499","9,999",28
+173,MOTOROLA,MOTOROLA e40 ,, 64 GB,2.3,6 ,0,,4.57 cm (1.8 inch) ,,,,,,"7,999","23,999",37
+174,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,4 GB  ,,  Upto 1 TB,"8,999","14,999",40
+175,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,17.2 cm (6.7 inch) HD+ ,,,,,,"67,999","79,900",14
+176,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 5MP Front ,,"37,999","43,900",13
+177,Cellecor,Cellecor E3 ,,,3.2,15 ,2,6000 mAh Lithium Polymer Battery,,,,,,,"1,179","79,900",14
+178,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,,Qualcomm Snapdragon 68 ,,,,,"67,999","43,900",13
+179,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"37,999","14,999",40
+180,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,,,,,"8,999","19,999",40
+181,Cellecor,Cellecor E1 ,,,3.6,38 ,2,,15.49 cm (6.1 inch) Super Retina XDR ,,,,,,"1,229","11,999",37
+182,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280", ,,,,, 12MP Front ,,"11,999","17,999",38
+183,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,"A15 Bionic Chip, 6 Core  ",,,,,"7,499","14,999",20
+184,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"10,999","17,999",38
+185,Cellecor,Cellecor R3+ ,,,3.5,13 ,2,,,,,,,,"1,049","23,999",37
+186,SAMSUNG,SAMSUNG Galaxy F13,, 64 GB,4.4,"1,11,744 ","6,424",,15.49 cm (6.1 inch) Liquid Retina HD ,,,,,,"11,999","11,999",37
+187,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280", ,,,,, 12MP Front ,,"10,999","10,999",27
+188,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.3,"1,40,978 ","11,531",,,A13 Bionic Chip ,,,,,"14,999","10,999",40
+189,Cellecor,Cellecor X2 ,,,4.3,"1,87,995 ","11,329",,,,Brand Warranty of 1 Year,,,,"1,149","9,999",28
+190,POCO,POCO C31 ,, 64 GB,4.1,"59,846 ","5,853", ,,,,32 MB  ,,  Upto 32 GB,"7,499","10,999",27
+191,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.3,"1,25,511 ","7,439",,4.57 cm (1.8 inch) ,,,,,,"7,999","21,999",31
+192,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,4 GB  ,,  Upto 1 TB,"8,999","14,999",40
+193,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,17.2 cm (6.7 inch) HD+ ,,,,,,"67,999","79,900",14
+194,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 5MP Front ,,"37,999","43,900",13
+195,Cellecor,Cellecor E3 ,,,3.2,15 ,2,6000 mAh Lithium Polymer Battery,,,,,,,"1,179","79,900",14
+196,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,,Qualcomm Snapdragon 68 ,,,,,"67,999","43,900",13
+197,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"37,999","14,999",40
+198,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,,,,,"8,999","19,999",40
+199,Cellecor,Cellecor E7 ,,,2.3,6 ,0,,15.49 cm (6.1 inch) Super Retina XDR ,,,,,,"1,479","11,999",37
+200,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280", ,,,,, 12MP Front ,,"11,999","17,999",38
+201,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,"A15 Bionic Chip, 6 Core  ",,,,,"7,499","17,999",38
+202,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"10,999","14,999",20
+203,Cellecor,Cellecor C60+ ,,,3.6,96 ,6,,,,,,,,"1,459","23,999",37
+204,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,15.49 cm (6.1 inch) Liquid Retina HD ,,,,,,"10,999","11,999",37
+205,SAMSUNG,SAMSUNG Galaxy F13,, 64 GB,4.4,"1,11,744 ","6,424", ,,,,, 12MP Front ,,"11,999","10,999",27
+206,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.3,"1,40,978 ","11,531",,,A13 Bionic Chip ,,,,,"14,999","10,999",27
+207,Cellecor,Cellecor R3+ ,,,3.5,13 ,2,,,,Brand Warranty of 1 Year,,,,"1,049","9,999",28
+208,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329", ,,,,32 MB  ,,  Upto 32 GB,"7,499","10,999",40
+209,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.1,"59,846 ","5,853",,4.57 cm (1.8 inch) ,,,,,,"7,999","21,999",31
+210,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,4 GB  ,,  Upto 1 TB,"8,999","14,999",40
+211,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,17.2 cm (6.7 inch) HD+ ,,,,,,"67,999","79,900",14
+212,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 5MP Front ,,"37,999","43,900",13
+213,Cellecor,Cellecor A30i ,,,3.4,19 ,2,6000 mAh Lithium Polymer Battery,,,,,,,"1,449","14,999",40
+214,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,Qualcomm Snapdragon 68 ,,,,,"8,999","79,900",14
+215,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"67,999","14,999",40
+216,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,,,,,"8,999","1,098",4%
+217,Cellecor,Cellecor R3+ ,,,3.5,13 ,2,,15.49 cm (6.1 inch) Super Retina XDR ,,,,,,"1,049","43,900",13
+218,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 12MP Front ,,"37,999","19,999",40
+219,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280",,,"A15 Bionic Chip, 6 Core  ",,,,,"11,999","11,999",37
+220,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"7,499","17,999",38
+221,Cellecor,Cellecor C60+ ,,,3.6,96 ,6,,,,,,,,"1,459","14,999",20
+222,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,15.49 cm (6.1 inch) Liquid Retina HD ,,,,,,"10,999","17,999",38
+223,SAMSUNG,SAMSUNG Galaxy F13,, 64 GB,4.4,"1,11,744 ","6,424", ,,,,, 12MP Front ,,"11,999","23,999",37
+224,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,,A13 Bionic Chip ,,,,,"10,999","10,999",27
+225,Cellecor,Cellecor E1 ,,,3.6,38 ,2,,,,Brand Warranty of 1 Year,,,,"1,229","11,999",37
+226,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.3,"1,40,978 ","11,531", ,,,,32 MB  ,,  Upto 32 GB,"14,999","10,999",40
+227,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.1,"59,846 ","5,853",,6.1 cm (2.4 inch) ,,,,,,"7,999","10,999",27
+228,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,,,,0.8MP Rear ,,"7,499","21,999",31
+229,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,4 GB  ,,  Upto 1 TB,"8,999","14,999",40
+230,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,17.2 cm (6.7 inch) HD+ ,,,,,,"67,999","79,900",14
+231,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 5MP Front ,,"37,999","43,900",13
+232,Cellecor,Cellecor A30i ,,,3.4,19 ,2,6000 mAh Lithium Polymer Battery,,,,,,,"1,449","79,900",14
+233,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,,Qualcomm Snapdragon 68 ,,,,,"67,999","43,900",13
+234,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"37,999","14,999",40
+235,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,,,,,"8,999","1,098",4%
+236,Cellecor,Cellecor R3+ ,,,3.5,13 ,2,,15.49 cm (6.1 inch) Super Retina XDR ,,,,,,"1,049","14,999",40
+237,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,, 12MP Front ,,"8,999","19,999",40
+238,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280",,,"A15 Bionic Chip, 6 Core  ",,,,,"11,999","17,999",38
+239,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"10,999","11,999",37
+240,Cellecor,Cellecor C60+ ,,,3.6,96 ,6,,,,,,,,"1,459","17,999",38
+241,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,15.49 cm (6.1 inch) Liquid Retina HD ,,,,,,"7,499","14,999",20
+242,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280", ,,,,, 12MP Front ,,"10,999","23,999",37
+243,SAMSUNG,SAMSUNG Galaxy F13,, 64 GB,4.4,"1,11,744 ","6,424",,,A13 Bionic Chip ,,,,,"11,999","10,999",27
+244,Cellecor,Cellecor E1 ,,,3.6,38 ,2,,,,Brand Warranty of 1 Year,,,,"1,229","11,999",37
+245,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.3,"1,40,978 ","11,531", ,,,,32 MB  ,,  Upto 32 GB,"14,999","10,999",40
+246,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.1,"59,846 ","5,853",,6.1 cm (2.4 inch) ,,,,,,"7,999","10,999",27
+247,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,,,,0.8MP Rear ,,"7,499","21,999",31
+248,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,4 GB  ,,  Upto 1 TB,"8,999","14,999",40
+249,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,17.2 cm (6.7 inch) HD+ ,,,,,,"67,999","79,900",14
+250,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 5MP Front ,,"37,999","43,900",13
+251,Cellecor,Cellecor R50 ,,,4.1,52 ,7,6000 mAh Lithium Polymer Battery,,,,,,,"1,459","79,900",14
+252,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,,Qualcomm Snapdragon 68 ,,,,,"67,999","14,999",40
+253,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"8,999","43,900",13
+254,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573",,,,,,,,"37,999","14,999",40
+255,Cellecor,Cellecor C60+ ,,,3.6,96 ,6,,15.49 cm (6.1 inch) Super Retina XDR ,,,,,,"1,459","19,999",40
+256,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,, 12MP Front ,,"8,999","17,999",38
+257,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280",,,"A15 Bionic Chip, 6 Core  ",,,,,"11,999","11,999",37
+258,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"10,999","17,999",38
+259,Cellecor,Cellecor E1 ,,,3.6,38 ,2,,,,,,,,"1,229","14,999",20
+260,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,15.49 cm (6.1 inch) Liquid Retina HD ,,,,,,"7,499","23,999",37
+261,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280", ,,,,, 12MP Front ,,"10,999","10,999",27
+262,SAMSUNG,SAMSUNG Galaxy F13,, 64 GB,4.4,"1,11,744 ","6,424",,,A13 Bionic Chip ,,,,,"11,999","11,999",37
+263,Cellecor,Cellecor X2 ,,,4.3,"1,40,978 ","11,531",,,,Brand Warranty of 1 Year,,,,"1,149","10,999",40
+264,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.1,"59,846 ","5,853", ,,,,32 MB  ,,  Upto 32 GB,"14,999","10,999",27
+265,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.3,"1,87,995 ","11,329",,6.1 cm (2.4 inch) ,,,,,,"7,999","21,999",31
+266,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,4 GB  ,,  Upto 1 TB,"8,999","14,999",40
+267,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,17.2 cm (6.7 inch) HD+ ,,,,,,"67,999","79,900",14
+268,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 5MP Front ,,"37,999","43,900",13
+269,Cellecor,Cellecor R3+ ,,,3.5,13 ,2,6000 mAh Lithium Polymer Battery,,,,,,,"1,049","79,900",14
+270,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,,Qualcomm Snapdragon 68 ,,,,,"67,999","43,900",13
+271,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"37,999","14,999",40
+272,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,,,,,"8,999","19,999",40
+273,Cellecor,Cellecor A5 ,,,4.4,41 ,3,,15.49 cm (6.1 inch) Super Retina XDR ,,,,,,"1,348","11,999",37
+274,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280", ,,,,, 12MP Front ,,"11,999","17,999",38
+275,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,"A15 Bionic Chip, 6 Core  ",,,,,"7,499","17,999",38
+276,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"10,999","14,999",20
+277,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,,,,,,,"10,999","23,999",37
+278,SAMSUNG,SAMSUNG Galaxy F13,, 64 GB,4.4,"1,11,744 ","6,424",,15.49 cm (6.1 inch) Liquid Retina HD ,,,,,,"11,999","11,999",37
+279,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.3,"1,40,978 ","11,531", ,,,,, 12MP Front ,,"14,999","10,999",27
+280,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,A13 Bionic Chip ,,,,,"7,499","10,999",40
+281,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.1,"59,846 ","5,853",,,,Brand Warranty of 1 Year,,,,"7,999","9,999",28
+282,POCO,POCO C31 ,, 32 GB,4.3,"1,25,511 ","7,439", ,,,,32 MB  ,,,"6,499","10,999",27
+283,REDMI,REDMI 9i Sport,, 64 GB,4.3,"2,17,141 ","12,271",,4.5 cm (1.77 inch) ,,,,,,"7,199","23,999",37
+284,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.1,"59,846 ","5,853",,,,,,0.8MP Rear ,,"7,999","21,999",31
+285,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.3,"1,40,978 ","11,531",1000 mAh Battery,,,,,,,"14,999","16,999",11
+286,MOTOROLA,MOTOROLA G62 5G,, 128 GB,4.2,"10,284 ","1,098",,,,1 Year Manufacturer Warranty,,,,"14,999","14,999",40
+287,POCO,POCO M4 Pro,5G, 64 GB,4.3,"35,159 ","3,125",,,,,,,,"14,999","19,999",15
+288,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,4 GB  ,,  Upto 1 TB,"8,999","14,999",40
+289,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,17.2 cm (6.7 inch) HD+ ,,,,,,"67,999","79,900",14
+290,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 5MP Front ,,"37,999","43,900",13
+291,Cellecor,Cellecor A30i ,,,3.4,19 ,2,6000 mAh Lithium Polymer Battery,,,,,,,"1,449","79,900",14
+292,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,,Qualcomm Snapdragon 68 ,,,,,"67,999","14,999",40
+293,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"8,999","43,900",13
+294,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573",,,,,,,,"37,999","1,098",4%
+295,Cellecor,Cellecor R3+ ,,,3.5,13 ,2,,15.49 cm (6.1 inch) Super Retina XDR ,,,,,,"1,049","14,999",40
+296,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,, 12MP Front ,,"8,999","19,999",40
+297,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280",,,"A15 Bionic Chip, 6 Core  ",,,,,"11,999","11,999",37
+298,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"7,499","17,999",38
+299,Cellecor,Cellecor C60+ ,,,3.6,96 ,6,,,,,,,,"1,459","17,999",38
+300,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,15.49 cm (6.1 inch) Liquid Retina HD ,,,,,,"10,999","14,999",20
+301,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280", ,,,,, 12MP Front ,,"10,999","23,999",37
+302,SAMSUNG,SAMSUNG Galaxy F13,, 64 GB,4.4,"1,11,744 ","6,424",,,A13 Bionic Chip ,,,,,"11,999","10,999",27
+303,Cellecor,Cellecor E1 ,,,3.6,38 ,2,,,,Brand Warranty of 1 Year,,,,"1,229","11,999",37
+304,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.3,"1,40,978 ","11,531", ,,,,32 MB  ,,  Upto 32 GB,"14,999","10,999",40
+305,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.1,"59,846 ","5,853",,6.1 cm (2.4 inch) ,,,,,,"7,999","10,999",27
+306,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,,,,0.8MP Rear ,,"7,499","21,999",31
+307,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,4 GB  ,,  Upto 1 TB,"8,999","14,999",40
+308,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,17.2 cm (6.7 inch) HD+ ,,,,,,"67,999","79,900",14
+309,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 5MP Front ,,"37,999","43,900",13
+310,Cellecor,Cellecor C60+ ,,,3.6,96 ,6,6000 mAh Lithium Polymer Battery,,,,,,,"1,459","79,900",14
+311,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,,Qualcomm Snapdragon 68 ,,,,,"67,999","43,900",13
+312,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"37,999","14,999",40
+313,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,,,,,"8,999","19,999",40
+314,Cellecor,Cellecor E1 ,,,3.6,38 ,2,,15.49 cm (6.1 inch) Super Retina XDR ,,,,,,"1,229","11,999",37
+315,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280", ,,,,, 12MP Front ,,"11,999","17,999",38
+316,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,"A15 Bionic Chip, 6 Core  ",,,,,"7,499","17,999",38
+317,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"10,999","14,999",20
+318,Cellecor,Cellecor R3+ ,,,3.5,13 ,2,,,,,,,,"1,049","23,999",37
+319,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,15.49 cm (6.1 inch) Liquid Retina HD ,,,,,,"10,999","10,999",27
+320,SAMSUNG,SAMSUNG Galaxy F13,, 64 GB,4.4,"1,11,744 ","6,424", ,,,,, 12MP Front ,,"11,999","11,999",37
+321,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.3,"1,40,978 ","11,531",,,A13 Bionic Chip ,,,,,"14,999","10,999",40
+322,Cellecor,Cellecor X2 ,,,4.1,"59,846 ","5,853",,,,Brand Warranty of 1 Year,,,,"1,149","9,999",28
+323,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.3,"1,87,995 ","11,329", ,,,,32 MB  ,,  Upto 32 GB,"7,999","10,999",27
+324,POCO,POCO C31 ,, 64 GB,4.3,"1,25,511 ","7,439",,4.57 cm (1.8 inch) ,,,,,,"7,499","23,999",37
+325,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,4 GB  ,,  Upto 1 TB,"8,999","14,999",40
+326,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,17.2 cm (6.7 inch) HD+ ,,,,,,"67,999","79,900",14
+327,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 5MP Front ,,"37,999","43,900",13
+328,Cellecor,Cellecor E7 ,,,2.3,6 ,0,6000 mAh Lithium Polymer Battery,,,,,,,"1,479","14,999",40
+329,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,Qualcomm Snapdragon 68 ,,,,,"8,999","79,900",14
+330,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"67,999","43,900",13
+331,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573",,,,,,,,"37,999","1,098",4%
+332,Cellecor,Cellecor R3+ ,,,3.5,13 ,2,,15.49 cm (6.1 inch) Super Retina XDR ,,,,,,"1,049","14,999",40
+333,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,, 12MP Front ,,"8,999","19,999",40
+334,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280",,,"A15 Bionic Chip, 6 Core  ",,,,,"11,999","11,999",37
+335,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"7,499","17,999",38
+336,Cellecor,Cellecor C60+ ,,,3.6,96 ,6,,,,,,,,"1,459","17,999",38
+337,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,15.49 cm (6.1 inch) Liquid Retina HD ,,,,,,"10,999","14,999",20
+338,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280", ,,,,, 12MP Front ,,"10,999","23,999",37
+339,SAMSUNG,SAMSUNG Galaxy F13,, 64 GB,4.4,"1,11,744 ","6,424",,,A13 Bionic Chip ,,,,,"11,999","11,999",37
+340,Cellecor,Cellecor E1 ,,,3.6,38 ,2,,,,Brand Warranty of 1 Year,,,,"1,229","10,999",27
+341,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.3,"1,40,978 ","11,531", ,,,,32 MB  ,,,"14,999","10,999",27
+342,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,6.1 cm (2.4 inch) ,,,,,,"7,499","10,999",40
+343,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.1,"59,846 ","5,853",,,,,,0.8MP Rear ,,"7,999","23,999",37
+344,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,4 GB  ,,  Upto 1 TB,"8,999","14,999",40
+345,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,17.2 cm (6.7 inch) HD+ ,,,,,,"67,999","79,900",14
+346,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 5MP Front ,,"37,999","43,900",13
+347,Cellecor,Cellecor A30i ,,,3.4,19 ,2,6000 mAh Lithium Polymer Battery,,,,,,,"1,449","79,900",14
+348,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,,Qualcomm Snapdragon 68 ,,,,,"67,999","14,999",40
+349,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"8,999","14,999",40
+350,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,,,,,"8,999","43,900",13
+351,Cellecor,Cellecor C60+ ,,,3.6,96 ,6,,15.49 cm (6.1 inch) Super Retina XDR ,,,,,,"1,459","19,999",40
+352,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 12MP Front ,,"37,999","11,999",37
+353,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280",,,"A15 Bionic Chip, 6 Core  ",,,,,"11,999","1,098",4%
+354,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"7,499","17,999",38
+355,Cellecor,Cellecor R3+ ,,,3.5,13 ,2,,,,,,,,"1,049","17,999",38
+356,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,15.49 cm (6.1 inch) Liquid Retina HD ,,,,,,"10,999","14,999",20
+357,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280", ,,,,, 12MP Front ,,"10,999","23,999",37
+358,SAMSUNG,SAMSUNG Galaxy F13,, 64 GB,4.4,"1,11,744 ","6,424",,,A13 Bionic Chip ,,,,,"11,999","10,999",27
+359,Cellecor,Cellecor E1 ,,,3.6,38 ,2,,,,Brand Warranty of 1 Year,,,,"1,229","11,999",37
+360,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.3,"1,40,978 ","11,531", ,,,,32 MB  ,,  Upto 32 GB,"14,999","10,999",27
+361,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.1,"59,846 ","5,853",,6.1 cm (2.4 inch) ,,,,,,"7,999","10,999",40
+362,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,,,,0.8MP Rear ,,"7,499","21,999",31
+363,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,4 GB  ,,  Upto 1 TB,"8,999","14,999",40
+364,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,17.2 cm (6.7 inch) HD+ ,,,,,,"67,999","79,900",14
+365,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 5MP Front ,,"37,999","43,900",13
+366,Cellecor,Cellecor R50 ,,,4.1,52 ,7,6000 mAh Lithium Polymer Battery,,,,,,,"1,459","79,900",14
+367,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,,Qualcomm Snapdragon 68 ,,,,,"67,999","14,999",40
+368,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"8,999","14,999",40
+369,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,,,,,"8,999","43,900",13
+370,Cellecor,Cellecor C60+ ,,,3.6,96 ,6,,15.49 cm (6.1 inch) Super Retina XDR ,,,,,,"1,459","19,999",40
+371,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 12MP Front ,,"37,999","17,999",38
+372,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280",,,"A15 Bionic Chip, 6 Core  ",,,,,"11,999","17,999",38
+373,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"10,999","11,999",37
+374,Cellecor,Cellecor E1 ,,,3.6,38 ,2,,,,,,,,"1,229","14,999",20
+375,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,15.49 cm (6.1 inch) Liquid Retina HD ,,,,,,"10,999","23,999",37
+376,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329", ,,,,, 12MP Front ,,"7,499","10,999",27
+377,SAMSUNG,SAMSUNG Galaxy F13,, 64 GB,4.4,"1,11,744 ","6,424",,,A13 Bionic Chip ,,,,,"11,999","11,999",37
+378,Cellecor,Cellecor X2 ,,,4.3,"1,40,978 ","11,531",,,,Brand Warranty of 1 Year,,,,"1,149","10,999",40
+379,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.1,"59,846 ","5,853", ,,,,32 MB  ,,  Upto 32 GB,"14,999","10,999",27
+380,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.3,"1,87,995 ","11,329",,6.1 cm (2.4 inch) ,,,,,,"7,999","16,999",11
+381,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,4 GB  ,,  Upto 1 TB,"8,999","14,999",40
+382,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,17.2 cm (6.7 inch) HD+ ,,,,,,"67,999","79,900",14
+383,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 5MP Front ,,"37,999","43,900",13
+384,Cellecor,Cellecor E7 ,,,2.3,6 ,0,6000 mAh Lithium Polymer Battery,,,,,,,"1,479","79,900",14
+385,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,,Qualcomm Snapdragon 68 ,,,,,"67,999","43,900",13
+386,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"37,999","14,999",40
+387,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,,,,,"8,999","19,999",40
+388,Cellecor,Cellecor E1 ,,,3.6,38 ,2,,15.49 cm (6.1 inch) Super Retina XDR ,,,,,,"1,229","17,999",38
+389,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280", ,,,,, 12MP Front ,,"11,999","11,999",37
+390,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,,"A15 Bionic Chip, 6 Core  ",,,,,"10,999","14,999",20
+391,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"7,499","17,999",38
+392,Cellecor,Cellecor R3+ ,,,3.5,13 ,2,,,,,,,,"1,049","23,999",37
+393,SAMSUNG,SAMSUNG Galaxy F13,, 64 GB,4.4,"1,11,744 ","6,424",,15.49 cm (6.1 inch) Liquid Retina HD ,,,,,,"11,999","11,999",37
+394,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280", ,,,,, 12MP Front ,,"10,999","10,999",27
+395,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.3,"1,40,978 ","11,531",,,A13 Bionic Chip ,,,,,"14,999","10,999",40
+396,Cellecor,Cellecor X2 ,,,4.3,"1,87,995 ","11,329",,,,Brand Warranty of 1 Year,,,,"1,149","9,999",28
+397,POCO,POCO C31 ,, 64 GB,4.1,"59,846 ","5,853", ,,,,32 MB  ,,,"7,499","10,999",27
+398,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.3,"1,25,511 ","7,439",,6.1 cm (2.4 inch) ,,,,,,"7,999","21,999",31
+399,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,4 GB  ,,  Upto 1 TB,"8,999","14,999",40
+400,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,17.2 cm (6.7 inch) HD+ ,,,,,,"67,999","79,900",14
+401,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 5MP Front ,,"37,999","43,900",13
+402,Cellecor,Cellecor A30i ,,,3.4,19 ,2,6000 mAh Lithium Polymer Battery,,,,,,,"1,449","79,900",14
+403,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,,Qualcomm Snapdragon 68 ,,,,,"67,999","14,999",40
+404,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"8,999","43,900",13
+405,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573",,,,,,,,"37,999","1,098",4%
+406,Cellecor,Cellecor R3+ ,,,3.5,13 ,2,,15.49 cm (6.1 inch) Super Retina XDR ,,,,,,"1,049","14,999",40
+407,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,, 12MP Front ,,"8,999","19,999",40
+408,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280",,,"A15 Bionic Chip, 6 Core  ",,,,,"11,999","11,999",37
+409,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"7,499","17,999",38
+410,Cellecor,Cellecor C60+ ,,,3.6,96 ,6,,,,,,,,"1,459","17,999",38
+411,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,15.49 cm (6.1 inch) Liquid Retina HD ,,,,,,"10,999","14,999",20
+412,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280", ,,,,, 12MP Front ,,"10,999","23,999",37
+413,SAMSUNG,SAMSUNG Galaxy F13,, 64 GB,4.4,"1,11,744 ","6,424",,,A13 Bionic Chip ,,,,,"11,999","10,999",27
+414,Cellecor,Cellecor E1 ,,,3.6,38 ,2,,,,Brand Warranty of 1 Year,,,,"1,229","11,999",37
+415,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.3,"1,40,978 ","11,531", ,,,,32 MB  ,,  Upto 32 GB,"14,999","10,999",40
+416,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.1,"59,846 ","5,853",,6.1 cm (2.4 inch) ,,,,,,"7,999","10,999",27
+417,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,,,,0.8MP Rear ,,"7,499","23,999",37
+418,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,4 GB  ,,  Upto 1 TB,"8,999","14,999",40
+419,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,17.2 cm (6.7 inch) HD+ ,,,,,,"67,999","79,900",14
+420,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 5MP Front ,,"37,999","43,900",13
+421,Cellecor,Cellecor R50 ,,,4.1,52 ,7,6000 mAh Lithium Polymer Battery,,,,,,,"1,459","79,900",14
+422,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,,Qualcomm Snapdragon 68 ,,,,,"67,999","43,900",13
+423,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"37,999","14,999",40
+424,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,,,,,"8,999","14,999",40
+425,Cellecor,Cellecor C60+ ,,,3.6,96 ,6,,15.49 cm (6.1 inch) Super Retina XDR ,,,,,,"1,459","19,999",40
+426,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,, 12MP Front ,,"8,999","11,999",37
+427,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280",,,"A15 Bionic Chip, 6 Core  ",,,,,"11,999","17,999",38
+428,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"7,499","17,999",38
+429,Cellecor,Cellecor E1 ,,,3.6,38 ,2,,,,,,,,"1,229","14,999",20
+430,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,15.49 cm (6.1 inch) Liquid Retina HD ,,,,,,"10,999","23,999",37
+431,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280", ,,,,, 12MP Front ,,"10,999","10,999",27
+432,SAMSUNG,SAMSUNG Galaxy F13,, 64 GB,4.4,"1,11,744 ","6,424",,,A13 Bionic Chip ,,,,,"11,999","11,999",37
+433,Cellecor,Cellecor X2 ,,,4.3,"1,40,978 ","11,531",,,,Brand Warranty of 1 Year,,,,"1,149","10,999",40
+434,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.1,"59,846 ","5,853", ,,,,32 MB  ,,  Upto 32 GB,"14,999","10,999",27
+435,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.3,"1,87,995 ","11,329",,6.1 cm (2.4 inch) ,,,,,,"7,999","21,999",31
+436,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,4 GB  ,,  Upto 1 TB,"8,999","14,999",40
+437,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573",,17.2 cm (6.7 inch) HD+ ,,,,,,"37,999","43,900",13
+438,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163, ,,,,, 5MP Front ,,"67,999","79,900",14
+439,Cellecor,Cellecor E7 ,,,2.3,6 ,0,6000 mAh Lithium Polymer Battery,,,,,,,"1,479","14,999",40
+440,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,Qualcomm Snapdragon 68 ,,,,,"8,999","79,900",14
+441,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"67,999","14,999",40
+442,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,,,,,"8,999","43,900",13
+443,Cellecor,Cellecor C60+ ,,,3.6,96 ,6,,15.49 cm (6.1 inch) Liquid Retina HD ,,,,,,"1,459","19,999",40
+444,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 12MP Front ,,"37,999","17,999",38
+445,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280",,,A13 Bionic Chip ,,,,,"11,999","11,999",37
+446,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,,,Brand Warranty of 1 Year,,,,"10,999","14,999",20
+447,Cellecor,Cellecor E1 ,,,3.6,38 ,2,,,,,,,,"1,229","23,999",37
+448,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,15.49 cm (6.1 inch) Super Retina XDR ,,,,,,"7,499","17,999",38
+449,SAMSUNG,SAMSUNG Galaxy F13,, 64 GB,4.4,"1,11,744 ","6,424", ,,,,, 12MP Front ,,"11,999","11,999",37
+450,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.3,"1,40,978 ","11,531",,,"A15 Bionic Chip, 6 Core  ",,,,,"14,999","10,999",27
+451,Cellecor,Cellecor X2 ,,,4.3,"1,34,634 ","12,280",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"1,149","10,999",27
+452,POCO,POCO M4 Pro,, 64 GB,4.3,"1,87,995 ","11,329", ,,,,32 MB  ,,,"10,999","10,999",40
+453,POCO,POCO C31 ,, 64 GB,4.1,"59,846 ","5,853",,6.1 cm (2.4 inch) ,,,,,,"7,499","23,999",37
+454,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,4 GB  ,,  Upto 1 TB,"8,999","14,999",40
+455,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,17.2 cm (6.7 inch) HD+ ,,,,,,"67,999","79,900",14
+456,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 5MP Front ,,"37,999","43,900",13
+457,Cellecor,Cellecor A30i ,,,3.4,19 ,2,6000 mAh Lithium Polymer Battery,,,,,,,"1,449","79,900",14
+458,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,,Qualcomm Snapdragon 68 ,,,,,"67,999","43,900",13
+459,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"37,999","14,999",40
+460,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,,,,,"8,999","19,999",40
+461,Cellecor,Cellecor E1 ,,,3.6,38 ,2,,15.49 cm (6.1 inch) Super Retina XDR ,,,,,,"1,229","11,999",37
+462,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280", ,,,,, 12MP Front ,,"11,999","17,999",38
+463,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,"A15 Bionic Chip, 6 Core  ",,,,,"7,499","17,999",38
+464,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"10,999","14,999",20
+465,Cellecor,Cellecor R3+ ,,,3.5,13 ,2,,,,,,,,"1,049","23,999",37
+466,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,15.49 cm (6.1 inch) Liquid Retina HD ,,,,,,"10,999","10,999",27
+467,SAMSUNG,SAMSUNG Galaxy F13,, 64 GB,4.4,"1,11,744 ","6,424", ,,,,, 12MP Front ,,"11,999","11,999",37
+468,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.3,"1,40,978 ","11,531",,,A13 Bionic Chip ,,,,,"14,999","9,999",28
+469,Cellecor,Cellecor X2 ,,,4.1,"59,846 ","5,853",,,,Brand Warranty of 1 Year,,,,"1,149","10,999",40
+470,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.3,"1,87,995 ","11,329", ,,,,32 MB  ,,  Upto 32 GB,"7,999","10,999",27
+471,POCO,POCO C31 ,, 64 GB,4.3,"2,17,141 ","12,271",,6.1 cm (2.4 inch) ,,,,,,"7,499","14,999",40
+472,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,4 GB  ,,  Upto 1 TB,"8,999","14,999",40
+473,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,17.2 cm (6.7 inch) HD+ ,,,,,,"67,999","79,900",14
+474,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 5MP Front ,,"37,999","43,900",13
+475,Cellecor,Cellecor A30i ,,,3.4,19 ,2,6000 mAh Lithium Polymer Battery,,,,,,,"1,449","79,900",14
+476,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,,Qualcomm Snapdragon 68 ,,,,,"67,999","43,900",13
+477,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"37,999","14,999",40
+478,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,,,,,"8,999","1,098",4%
+479,Cellecor,Cellecor R3+ ,,,3.5,13 ,2,,15.49 cm (6.1 inch) Super Retina XDR ,,,,,,"1,049","14,999",40
+480,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,, 12MP Front ,,"8,999","19,999",40
+481,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280",,,"A15 Bionic Chip, 6 Core  ",,,,,"11,999","17,999",38
+482,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"10,999","11,999",37
+483,Cellecor,Cellecor C60+ ,,,3.6,96 ,6,,,,,,,,"1,459","17,999",38
+484,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,15.49 cm (6.1 inch) Liquid Retina HD ,,,,,,"7,499","14,999",20
+485,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280", ,,,,, 12MP Front ,,"10,999","23,999",37
+486,SAMSUNG,SAMSUNG Galaxy F13,, 64 GB,4.4,"1,11,744 ","6,424",,,A13 Bionic Chip ,,,,,"11,999","10,999",27
+487,Cellecor,Cellecor E1 ,,,3.6,38 ,2,,,,Brand Warranty of 1 Year,,,,"1,229","11,999",37
+488,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.3,"1,40,978 ","11,531", ,,,,32 MB  ,,  Upto 32 GB,"14,999","10,999",40
+489,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.1,"59,846 ","5,853",,6.1 cm (2.4 inch) ,,,,,,"7,999","10,999",27
+490,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,,,,0.8MP Rear ,,"7,499","21,999",31
+491,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,4 GB  ,,  Upto 1 TB,"8,999","14,999",40
+492,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,17.2 cm (6.7 inch) HD+ ,,,,,,"67,999","79,900",14
+493,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 5MP Front ,,"37,999","43,900",13
+494,Cellecor,Cellecor R3+ ,,,3.5,13 ,2,6000 mAh Lithium Polymer Battery,,,,,,,"1,049","1,098",4%
+495,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,,Qualcomm Snapdragon 68 ,,,,,"67,999","79,900",14
+496,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"8,999","14,999",40
+497,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573",,,,,,,,"37,999","43,900",13
+498,Cellecor,Cellecor E1 ,,,3.6,38 ,2,,15.49 cm (6.1 inch) Super Retina XDR ,,,,,,"1,229","14,999",40
+499,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,, 12MP Front ,,"8,999","19,999",40
+500,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280",,,"A15 Bionic Chip, 6 Core  ",,,,,"11,999","11,999",37
+501,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"7,499","17,999",38
+502,Cellecor,Cellecor X2 ,,,4.3,"1,34,634 ","12,280",,,,,,,,"1,149","17,999",38
+503,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,15.49 cm (6.1 inch) Liquid Retina HD ,,,,,,"10,999","14,999",20
+504,POCO,POCO M4 Pro,, 64 GB,4.4,"1,11,744 ","6,424", ,,,,, 12MP Front ,,"10,999","23,999",37
+505,SAMSUNG,SAMSUNG Galaxy F13,, 64 GB,4.3,"1,40,978 ","11,531",,,A13 Bionic Chip ,,,,,"11,999","11,999",37
+506,Cellecor,Cellecor X-1 ,,,4.3,"1,87,995 ","11,329",,,,Brand Warranty of 1 Year,,0.8MP Rear ,,"1,149","10,999",27
+507,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.1,"59,846 ","5,853", ,,,,32 MB  ,,,"14,999","10,999",40
+508,POCO,POCO C31 ,, 64 GB,2.3,6 ,0,,4.5 cm (1.77 inch) ,,,,,,"7,499","10,999",27
+509,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.3,"1,25,511 ","7,439",,,,,,0.8MP Rear ,,"7,999","16,999",11
+510,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,4 GB  ,,  Upto 1 TB,"8,999","14,999",40
+511,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573",,17.2 cm (6.7 inch) HD+ ,,,,,,"37,999","43,900",13
+512,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163, ,,,,, 5MP Front ,,"67,999","79,900",14
+513,Cellecor,Cellecor A30i ,,,3.4,19 ,2,6000 mAh Lithium Polymer Battery,,,,,,,"1,449","79,900",14
+514,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,,Qualcomm Snapdragon 68 ,,,,,"67,999","14,999",40
+515,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"8,999","43,900",13
+516,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573",,,,,,,,"37,999","19,999",40
+517,Cellecor,Cellecor C60+ ,,,3.6,96 ,6,,15.49 cm (6.1 inch) Liquid Retina HD ,,,,,,"1,459","11,999",37
+518,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280", ,,,,, 12MP Front ,,"11,999","17,999",38
+519,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,A13 Bionic Chip ,,,,,"7,499","17,999",38
+520,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,,,Brand Warranty of 1 Year,,,,"10,999","14,999",20
+521,Cellecor,Cellecor A5 ,,,4.4,41 ,3,,,,,,,,"1,348","23,999",37
+522,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,15.49 cm (6.1 inch) Super Retina XDR ,,,,,,"10,999","11,999",37
+523,SAMSUNG,SAMSUNG Galaxy F13,, 64 GB,4.4,"1,11,744 ","6,424", ,,,,, 12MP Front ,,"11,999","10,999",27
+524,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.3,"1,40,978 ","11,531",,,"A15 Bionic Chip, 6 Core  ",,,,,"14,999","10,999",27
+525,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"7,499","9,999",28
+526,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.1,"59,846 ","5,853", ,,,,32 MB  ,,  Upto 32 GB,"7,999","10,999",40
+527,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.1,"59,846 ","5,853",,6.1 cm (2.4 inch) ,,,,,,"7,999","23,999",37
+528,REDMI,REDMI 9i Sport,, 64 GB,4.3,"2,17,141 ","12,271",,,,,,0.8MP Rear ,,"7,199","19,999",40
+529,POCO,POCO C31 ,, 32 GB,4.3,"1,25,511 ","7,439",2000 mAh Battery,,,,,,,"6,499","16,999",11
+530,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.3,"1,40,978 ","11,531",,,,1 Year Manufacturer Warranty,,,,"14,999","19,999",15
+531,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,4 GB  ,,  Upto 1 TB,"8,999","14,999",40
+532,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,17.2 cm (6.7 inch) HD+ ,,,,,,"67,999","79,900",14
+533,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 5MP Front ,,"37,999","43,900",13
+534,Cellecor,Cellecor R3+ ,,,3.5,13 ,2,6000 mAh Lithium Polymer Battery,,,,,,,"1,049","1,098",4%
+535,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,,Qualcomm Snapdragon 68 ,,,,,"67,999","79,900",14
+536,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"8,999","14,999",40
+537,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573",,,,,,,,"37,999","43,900",13
+538,Cellecor,Cellecor E1 ,,,3.6,38 ,2,,15.49 cm (6.1 inch) Super Retina XDR ,,,,,,"1,229","19,999",40
+539,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280", ,,,,, 12MP Front ,,"11,999","17,999",38
+540,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,,"A15 Bionic Chip, 6 Core  ",,,,,"10,999","11,999",37
+541,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"7,499","17,999",38
+542,Cellecor,Cellecor X2 ,,,4.3,"1,34,634 ","12,280",,,,,,,,"1,149","23,999",37
+543,POCO,POCO M4 Pro,, 64 GB,4.3,"1,40,978 ","11,531",,15.49 cm (6.1 inch) Liquid Retina HD ,,,,,,"10,999","10,999",27
+544,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.1,"59,846 ","5,853", ,,,,, 12MP Front ,,"14,999","11,999",37
+545,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.3,"1,87,995 ","11,329",,,A13 Bionic Chip ,,,,,"7,999","10,999",40
+546,Cellecor,Cellecor X-1 ,,,4.3,"1,25,511 ","7,439",,,,Brand Warranty of 1 Year,,,,"1,149","21,999",31
+547,POCO,POCO C31 ,, 64 GB,4.2,"10,284 ","1,098", ,,,,32 MB  ,,,"7,499","23,999",37
+548,POCO,POCO C31 ,, 32 GB,2.3,6 ,0,,4.5 cm (1.77 inch) ,,,,,,"6,499","19,999",15
+549,MOTOROLA,MOTOROLA G62 5G,, 128 GB,4.3,"1,40,978 ","11,531",,,,,,0.8MP Rear ,,"14,999","16,999",11
+550,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,4 GB  ,,  Upto 1 TB,"8,999","14,999",40
+551,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,17.2 cm (6.7 inch) HD+ ,,,,,,"67,999","79,900",14
+552,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 5MP Front ,,"37,999","43,900",13
+553,Cellecor,Cellecor A30i ,,,3.4,19 ,2,6000 mAh Lithium Polymer Battery,,,,,,,"1,449","79,900",14
+554,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,,Qualcomm Snapdragon 68 ,,,,,"67,999","43,900",13
+555,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"37,999","14,999",40
+556,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,,,,,"8,999","19,999",40
+557,Cellecor,Cellecor C60+ ,,,3.6,96 ,6,,15.49 cm (6.1 inch) Super Retina XDR ,,,,,,"1,459","17,999",38
+558,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280", ,,,,, 12MP Front ,,"11,999","11,999",37
+559,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,,"A15 Bionic Chip, 6 Core  ",,,,,"10,999","17,999",38
+560,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"7,499","14,999",20
+561,Cellecor,Cellecor A5 ,,,4.4,41 ,3,,,,,,,,"1,348","23,999",37
+562,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,15.49 cm (6.1 inch) Liquid Retina HD ,,,,,,"10,999","10,999",27
+563,SAMSUNG,SAMSUNG Galaxy F13,, 64 GB,4.4,"1,11,744 ","6,424", ,,,,, 12MP Front ,,"11,999","11,999",37
+564,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.3,"1,40,978 ","11,531",,,A13 Bionic Chip ,,,,,"14,999","10,999",40
+565,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.1,"59,846 ","5,853",,,,Brand Warranty of 1 Year,,,,"7,999","9,999",28
+566,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329", ,,,,32 MB  ,,  Upto 32 GB,"7,499","10,999",27
+567,POCO,POCO C31 ,, 32 GB,4.3,"1,25,511 ","7,439",,6.1 cm (2.4 inch) ,,,,,,"6,499","21,999",31
+568,REDMI,REDMI 9i Sport,, 64 GB,4.3,"2,17,141 ","12,271",,,,,,0.8MP Rear ,,"7,199","23,999",37
+569,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.1,"59,846 ","5,853",2000 mAh Battery,,,,,,,"7,999","19,999",40
+570,MOTOROLA,MOTOROLA G62 5G,, 128 GB,4.2,"10,284 ","1,098",,,,1 Year Manufacturer Warranty,,,,"14,999","16,999",11
+571,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,4 GB  ,,  Upto 1 TB,"8,999","14,999",40
+572,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,17.2 cm (6.7 inch) HD+ ,,,,,,"67,999","79,900",14
+573,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 5MP Front ,,"37,999","43,900",13
+574,Cellecor,Cellecor R3+ ,,,3.5,13 ,2,6000 mAh Lithium Polymer Battery,,,,,,,"1,049","79,900",14
+575,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,,Qualcomm Snapdragon 68 ,,,,,"67,999","43,900",13
+576,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"37,999","14,999",40
+577,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,,,,,"8,999","19,999",40
+578,Cellecor,Cellecor R50 ,,,4.1,52 ,7,,15.49 cm (6.1 inch) Super Retina XDR ,,,,0.8MP Rear ,,"1,459","17,999",38
+579,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280", ,,,,, 12MP Front ,,"11,999","11,999",37
+580,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,,"A15 Bionic Chip, 6 Core  ",,,,,"10,999","14,999",20
+581,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"7,499","17,999",38
+582,Cellecor,Cellecor A5 ,,,4.4,41 ,3,,,,,,,,"1,348","23,999",37
+583,SAMSUNG,SAMSUNG Galaxy F13,, 64 GB,4.4,"1,11,744 ","6,424",,15.49 cm (6.1 inch) Liquid Retina HD ,,,,,,"11,999","11,999",37
+584,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280", ,,,,, 12MP Front ,,"10,999","10,999",27
+585,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.3,"1,40,978 ","11,531",,,A13 Bionic Chip ,,,,,"14,999","10,999",40
+586,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,,Brand Warranty of 1 Year,,,,"7,499","10,999",27
+587,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.1,"59,846 ","5,853", ,,,,32 MB  ,,,"7,999","9,999",28
+588,POCO,POCO C31 ,, 32 GB,4.3,"1,25,511 ","7,439",,4.5 cm (1.77 inch) ,,,,,,"6,499","14,999",40
+589,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.1,"59,846 ","5,853",,,,,,0.8MP Rear ,,"7,999","21,999",31
+590,REDMI,REDMI 9i Sport,, 64 GB,4.3,"2,17,141 ","12,271",1000 mAh Battery,,,,,,,"7,199","23,999",37
+591,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,1 Year Manufacturer Warranty,,,,"8,999","19,999",15
+592,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,4 GB  ,,  Upto 1 TB,"8,999","14,999",40
+593,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,17.2 cm (6.7 inch) HD+ ,,,,,,"67,999","79,900",14
+594,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 5MP Front ,,"37,999","43,900",13
+595,Cellecor,Cellecor R3+ ,,,3.5,13 ,2,6000 mAh Lithium Polymer Battery,,,,,,,"1,049","1,098",4%
+596,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,,Qualcomm Snapdragon 68 ,,,,,"67,999","79,900",14
+597,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"8,999","14,999",40
+598,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573",,,,,,,,"37,999","43,900",13
+599,Cellecor,Cellecor E1 ,,,3.6,38 ,2,,15.49 cm (6.1 inch) Super Retina XDR ,,,,,,"1,229","14,999",40
+600,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,, 12MP Front ,,"8,999","19,999",40
+601,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280",,,"A15 Bionic Chip, 6 Core  ",,,,,"11,999","17,999",38
+602,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"10,999","11,999",37
+603,Cellecor,Cellecor X2 ,,,4.3,"1,87,995 ","11,329",,,,,,,,"1,149","17,999",38
+604,POCO,POCO C31 ,, 64 GB,4.3,"1,34,634 ","12,280",,15.49 cm (6.1 inch) Liquid Retina HD ,,,,,,"7,499","14,999",20
+605,POCO,POCO M4 Pro,, 64 GB,4.4,"1,11,744 ","6,424", ,,,,, 12MP Front ,,"10,999","23,999",37
+606,SAMSUNG,SAMSUNG Galaxy F13,, 64 GB,4.3,"1,40,978 ","11,531",,,A13 Bionic Chip ,,,,,"11,999","10,999",27
+607,Cellecor,Cellecor X-1 ,,,4.1,"59,846 ","5,853",,,,Brand Warranty of 1 Year,,,,"1,149","11,999",37
+608,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.3,"1,87,995 ","11,329", ,,,,32 MB  ,,,"14,999","10,999",40
+609,MOTOROLA,MOTOROLA e40 ,, 64 GB,2.3,6 ,0,,4.5 cm (1.77 inch) ,,,,,,"7,999","10,999",27
+610,POCO,POCO C31 ,, 64 GB,4.3,"1,25,511 ","7,439",,,,,,0.8MP Rear ,,"7,499","21,999",31
+611,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,4 GB  ,,  Upto 1 TB,"8,999","14,999",40
+612,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,17.2 cm (6.7 inch) HD+ ,,,,,,"67,999","79,900",14
+613,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 5MP Front ,,"37,999","43,900",13
+614,Cellecor,Cellecor A30i ,,,3.4,19 ,2,6000 mAh Lithium Polymer Battery,,,,,,,"1,449","79,900",14
+615,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,,Qualcomm Snapdragon 68 ,,,,,"67,999","43,900",13
+616,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"37,999","14,999",40
+617,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,,,,,"8,999","19,999",40
+618,Cellecor,Cellecor R3+ ,,,3.5,13 ,2,,15.49 cm (6.1 inch) Super Retina XDR ,,,,,,"1,049","11,999",37
+619,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280", ,,,,, 12MP Front ,,"11,999","17,999",38
+620,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,"A15 Bionic Chip, 6 Core  ",,,,,"7,499","17,999",38
+621,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"10,999","14,999",20
+622,Cellecor,Cellecor R50 ,,,4.1,52 ,7,,,,,,,,"1,459","23,999",37
+623,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,15.49 cm (6.1 inch) Liquid Retina HD ,,,,,,"10,999","11,999",37
+624,SAMSUNG,SAMSUNG Galaxy F13,, 64 GB,4.4,"1,11,744 ","6,424", ,,,,, 12MP Front ,,"11,999","10,999",27
+625,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.3,"1,40,978 ","11,531",,,A13 Bionic Chip ,,,,,"14,999","9,999",28
+626,Cellecor,Cellecor A5 ,,,4.4,41 ,3,,,,Brand Warranty of 1 Year,,,,"1,348","10,999",40
+627,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329", ,,,,32 MB  ,,  Upto 32 GB,"7,499","10,999",27
+628,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.1,"59,846 ","5,853",,6.1 cm (2.4 inch) ,,,,,,"7,999","21,999",31
+629,REDMI,REDMI 9i Sport,, 64 GB,4.3,"2,17,141 ","12,271",,,,,,0.8MP Rear ,,"7,199","23,999",37
+630,POCO,POCO C31 ,, 32 GB,4.3,"1,25,511 ","7,439",2000 mAh Battery,,,,,,,"6,499","19,999",15
+631,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,4 GB  ,,  Upto 1 TB,"8,999","14,999",40
+632,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,17.2 cm (6.7 inch) HD+ ,,,,,,"67,999","79,900",14
+633,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 5MP Front ,,"37,999","43,900",13
+634,Cellecor,Cellecor A30i ,,,3.4,19 ,2,6000 mAh Lithium Polymer Battery,,,,,,,"1,449","79,900",14
+635,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,,Qualcomm Snapdragon 68 ,,,,,"67,999","14,999",40
+636,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"8,999","43,900",13
+637,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573",,,,,,,,"37,999","19,999",40
+638,Cellecor,Cellecor C60+ ,,,3.6,96 ,6,,15.49 cm (6.1 inch) Super Retina XDR ,,,,,,"1,459","11,999",37
+639,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280", ,,,,, 12MP Front ,,"11,999","17,999",38
+640,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,"A15 Bionic Chip, 6 Core  ",,,,,"7,499","17,999",38
+641,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"10,999","14,999",20
+642,Cellecor,Cellecor A5 ,,,4.4,41 ,3,,,,,,,,"1,348","23,999",37
+643,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,15.49 cm (6.1 inch) Liquid Retina HD ,,,,,,"10,999","10,999",27
+644,SAMSUNG,SAMSUNG Galaxy F13,, 64 GB,4.4,"1,11,744 ","6,424", ,,,,, 12MP Front ,,"11,999","11,999",37
+645,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.3,"1,40,978 ","11,531",,,A13 Bionic Chip ,,,,,"14,999","10,999",27
+646,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.1,"59,846 ","5,853",,,,Brand Warranty of 1 Year,,,,"7,999","10,999",40
+647,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329", ,,,,32 MB  ,,  Upto 32 GB,"7,499","9,999",28
+648,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.1,"59,846 ","5,853",,6.1 cm (2.4 inch) ,,,,,,"7,999","16,999",11
+649,POCO,POCO C31 ,, 32 GB,4.3,"1,25,511 ","7,439",,,,,,0.8MP Rear ,,"6,499","23,999",37
+650,REDMI,REDMI 9i Sport,, 64 GB,4.3,"2,17,141 ","12,271",2000 mAh Battery,,,,,,,"7,199","14,999",40
+651,POCO,POCO M4 Pro,5G, 64 GB,4.3,"35,159 ","3,125",,,,1 Year Manufacturer Warranty,,,,"14,999","21,999",31
+652,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,4 GB  ,,  Upto 1 TB,"8,999","14,999",40
+653,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,17.2 cm (6.7 inch) HD+ ,,,,,,"67,999","79,900",14
+654,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 5MP Front ,,"37,999","43,900",13
+655,Cellecor,Cellecor R3+ ,,,3.5,13 ,2,6000 mAh Lithium Polymer Battery,,,,,,,"1,049","79,900",14
+656,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,,Qualcomm Snapdragon 68 ,,,,,"67,999","43,900",13
+657,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"37,999","14,999",40
+658,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,,,,,"8,999","19,999",40
+659,Cellecor,Cellecor R50 ,,,4.1,52 ,7,,15.49 cm (6.1 inch) Super Retina XDR ,,,,,,"1,459","11,999",37
+660,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280", ,,,,, 12MP Front ,,"11,999","17,999",38
+661,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,"A15 Bionic Chip, 6 Core  ",,,,,"7,499","17,999",38
+662,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"10,999","14,999",20
+663,Cellecor,Cellecor A5 ,,,4.4,41 ,3,,,,,,,,"1,348","23,999",37
+664,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,15.49 cm (6.1 inch) Liquid Retina HD ,,,,,,"10,999","11,999",37
+665,SAMSUNG,SAMSUNG Galaxy F13,, 64 GB,4.4,"1,11,744 ","6,424", ,,,,, 12MP Front ,,"11,999","10,999",27
+666,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.3,"1,40,978 ","11,531",,,A13 Bionic Chip ,,,,,"14,999","9,999",28
+667,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,,Brand Warranty of 1 Year,,,,"7,499","10,999",40
+668,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.1,"59,846 ","5,853", ,,,,32 MB  ,,,"7,999","10,999",27
+669,REDMI,REDMI 9i Sport,, 64 GB,4.3,"2,17,141 ","12,271",,4.5 cm (1.77 inch) ,,,,,,"7,199","16,999",11
+670,POCO,POCO C31 ,, 32 GB,4.3,"1,25,511 ","7,439",,,,,,0.8MP Rear ,,"6,499","21,999",31
+671,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.1,"59,846 ","5,853",1000 mAh Battery,,,,,,,"7,999","23,999",37
+672,POCO,POCO M4 Pro,5G, 64 GB,4.3,"35,159 ","3,125",,,,1 Year Manufacturer Warranty,,,,"14,999","14,999",40
+673,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,4 GB  ,,  Upto 1 TB,"8,999","14,999",40
+674,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,17.2 cm (6.7 inch) HD+ ,,,,,,"67,999","79,900",14
+675,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 5MP Front ,,"37,999","43,900",13
+676,Cellecor,Cellecor R50 ,,,4.1,52 ,7,6000 mAh Lithium Polymer Battery,,,,,,,"1,459","79,900",14
+677,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,,Qualcomm Snapdragon 68 ,,,,,"67,999","43,900",13
+678,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"37,999","14,999",40
+679,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,,,,,"8,999","14,999",40
+680,Cellecor,Cellecor C60+ ,,,3.6,96 ,6,,15.49 cm (6.1 inch) Super Retina XDR ,,,,,,"1,459","19,999",40
+681,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,, 12MP Front ,,"8,999","11,999",37
+682,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280",,,"A15 Bionic Chip, 6 Core  ",,,,,"11,999","17,999",38
+683,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"7,499","17,999",38
+684,Cellecor,Cellecor E1 ,,,3.6,38 ,2,,,,,,,,"1,229","14,999",20
+685,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,15.49 cm (6.1 inch) Liquid Retina HD ,,,,,,"10,999","23,999",37
+686,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280", ,,,,, 12MP Front ,,"10,999","11,999",37
+687,SAMSUNG,SAMSUNG Galaxy F13,, 64 GB,4.4,"1,11,744 ","6,424",,,A13 Bionic Chip ,,,,,"11,999","10,999",27
+688,Cellecor,Cellecor X2 ,,,4.3,"1,40,978 ","11,531",,,,Brand Warranty of 1 Year,,,,"1,149","10,999",40
+689,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.3,"1,87,995 ","11,329", ,,,,32 MB  ,,  Upto 32 GB,"14,999","10,999",27
+690,POCO,POCO C31 ,, 64 GB,4.1,"59,846 ","5,853",,6.1 cm (2.4 inch) ,,,,,,"7,499","21,999",31
+691,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,4 GB  ,,  Upto 1 TB,"8,999","14,999",40
+692,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,17.2 cm (6.7 inch) HD+ ,,,,,,"67,999","79,900",14
+693,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 5MP Front ,,"37,999","43,900",13
+694,Cellecor,Cellecor A30i ,,,3.4,19 ,2,6000 mAh Lithium Polymer Battery,,,,,,,"1,449","79,900",14
+695,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,,Qualcomm Snapdragon 68 ,,,,,"67,999","14,999",40
+696,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"8,999","43,900",13
+697,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573",,,,,,,,"37,999","14,999",40
+698,Cellecor,Cellecor C60+ ,,,3.6,96 ,6,,15.49 cm (6.1 inch) Super Retina XDR ,,,,,,"1,459","19,999",40
+699,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,, 12MP Front ,,"8,999","11,999",37
+700,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280",,,"A15 Bionic Chip, 6 Core  ",,,,,"11,999","17,999",38
+701,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"7,499","17,999",38
+702,Cellecor,Cellecor E1 ,,,3.6,38 ,2,,,,,,,,"1,229","14,999",20
+703,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,15.49 cm (6.1 inch) Liquid Retina HD ,,,,,,"10,999","23,999",37
+704,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280", ,,,,, 12MP Front ,,"10,999","11,999",37
+705,SAMSUNG,SAMSUNG Galaxy F13,, 64 GB,4.4,"1,11,744 ","6,424",,,A13 Bionic Chip ,,,0.8MP Rear ,,"11,999","10,999",27
+706,Cellecor,Cellecor X2 ,,,4.3,"1,40,978 ","11,531",,,,Brand Warranty of 1 Year,,,,"1,149","10,999",27
+707,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.3,"1,87,995 ","11,329", ,,,,32 MB  ,,  Upto 32 GB,"14,999","10,999",40
+708,POCO,POCO C31 ,, 64 GB,4.1,"59,846 ","5,853",,6.1 cm (2.4 inch) ,,,,,,"7,499","21,999",31
+709,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,4 GB  ,,  Upto 1 TB,"8,999","14,999",40
+710,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,17.2 cm (6.7 inch) HD+ ,,,,,,"67,999","79,900",14
+711,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 5MP Front ,,"37,999","43,900",13
+712,Cellecor,Cellecor E7 ,,,2.3,6 ,0,6000 mAh Lithium Polymer Battery,,,,,,,"1,479","79,900",14
+713,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,,Qualcomm Snapdragon 68 ,,,,,"67,999","14,999",40
+714,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"8,999","43,900",13
+715,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573",,,,,,,,"37,999","19,999",40
+716,Cellecor,Cellecor E1 ,,,3.6,38 ,2,,15.49 cm (6.1 inch) Super Retina XDR ,,,,,,"1,229","11,999",37
+717,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280", ,,,,, 12MP Front ,,"11,999","17,999",38
+718,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,"A15 Bionic Chip, 6 Core  ",,,,,"7,499","14,999",20
+719,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"10,999","17,999",38
+720,Cellecor,Cellecor R3+ ,,,3.5,13 ,2,,,,,,,,"1,049","23,999",37
+721,SAMSUNG,SAMSUNG Galaxy F13,, 64 GB,4.4,"1,11,744 ","6,424",,15.49 cm (6.1 inch) Liquid Retina HD ,,,,,,"11,999","11,999",37
+722,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280", ,,,,, 12MP Front ,,"10,999","10,999",27
+723,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.3,"1,40,978 ","11,531",,,A13 Bionic Chip ,,,,,"14,999","10,999",40
+724,Cellecor,Cellecor X2 ,,,4.3,"1,87,995 ","11,329",,,,Brand Warranty of 1 Year,,,,"1,149","10,999",27
+725,POCO,POCO C31 ,, 64 GB,4.1,"59,846 ","5,853", ,,,,32 MB  ,,,"7,499","9,999",28
+726,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.3,"1,25,511 ","7,439",,6.1 cm (2.4 inch) ,,,,,,"7,999","14,999",40
+727,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998", ,,,,4 GB  ,,  Upto 1 TB,"8,999","14,999",40
+728,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,17.2 cm (6.7 inch) HD+ ,,,,,,"67,999","79,900",14
+729,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573", ,,,,, 5MP Front ,,"37,999","43,900",13
+730,Cellecor,Cellecor R3+ ,,,3.5,13 ,2,6000 mAh Lithium Polymer Battery,,,,,,,"1,049","79,900",14
+731,APPLE,APPLE iPhone 14,, 128 GB,4.7,"4,247 ",163,,,Qualcomm Snapdragon 68 ,,,,,"67,999","43,900",13
+732,APPLE,APPLE iPhone 11,, 64 GB,4.6,"1,78,400 ","10,573",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"37,999","14,999",40
+733,REDMI,REDMI 10 ,, 64 GB,4.3,"1,70,664 ","10,998",,,,,,,,"8,999","19,999",40
+734,Cellecor,Cellecor A5 ,,,4.4,41 ,3,,15.49 cm (6.1 inch) Super Retina XDR ,,,,,,"1,348","11,999",37
+735,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280", ,,,,, 12MP Front ,,"11,999","17,999",38
+736,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,"A15 Bionic Chip, 6 Core  ",,,,,"7,499","17,999",38
+737,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,,,1 Year Warranty for Phone and 6 Months Warranty for In-Box Accessories,,,,"10,999","14,999",20
+738,POCO,POCO M4 Pro,, 64 GB,4.3,"1,34,634 ","12,280",,,,,,,,"10,999","23,999",37
+739,SAMSUNG,SAMSUNG Galaxy F13,, 64 GB,4.4,"1,11,744 ","6,424",,15.49 cm (6.1 inch) Liquid Retina HD ,,,,,,"11,999","11,999",37
+740,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.3,"1,40,978 ","11,531", ,,,,, 12MP Front ,,"14,999","10,999",27
+741,POCO,POCO C31 ,, 64 GB,4.3,"1,87,995 ","11,329",,,A13 Bionic Chip ,,,,,"7,499","10,999",40
+742,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.1,"59,846 ","5,853",,,,Brand Warranty of 1 Year,,,,"7,999","10,999",27
+743,POCO,POCO C31 ,, 32 GB,4.3,"1,25,511 ","7,439", ,,,,32 MB  ,,,"6,499","9,999",28
+744,MOTOROLA,MOTOROLA e40 ,, 64 GB,4.1,"59,846 ","5,853",,4.5 cm (1.77 inch) ,,,,,,"7,999","21,999",31
+745,REDMI,REDMI 9i Sport,, 64 GB,4.3,"2,17,141 ","12,271",,,,,,0.8MP Rear ,,"7,199","23,999",37
+746,MOTOROLA,MOTOROLA G62 5G,, 128 GB,4.2,"10,284 ","1,098",1000 mAh Battery,,,,,,,"14,999","19,999",40
+747,SAMSUNG,SAMSUNG Galaxy F23,5G, 128 GB,4.3,"1,40,978 ","11,531",,,,1 Year Manufacturer Warranty,,,,"14,999","16,999",11
+748,POCO,POCO M4 Pro,, 128 GB,4.3,"1,34,634 ","12,280",,,,,,,,"11,999","14,999",40
